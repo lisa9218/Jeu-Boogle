@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\charl\\source\\repos\\TD7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F3B2FE-D89B-4E65-A341-1BF0FAB5AB5C}|TD7\\TD7.csproj|c:\\users\\charl\\source\\repos\\td7\\td7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F3B2FE-D89B-4E65-A341-1BF0FAB5AB5C}|TD7\\TD7.csproj|solutionrelative:td7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F3B2FE-D89B-4E65-A341-1BF0FAB5AB5C}|TD7\\TD7.csproj|c:\\users\\charl\\source\\repos\\td7\\td7\\labyrinthe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F3B2FE-D89B-4E65-A341-1BF0FAB5AB5C}|TD7\\TD7.csproj|solutionrelative:td7\\labyrinthe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F3B2FE-D89B-4E65-A341-1BF0FAB5AB5C}|TD7\\TD7.csproj|c:\\users\\charl\\source\\repos\\td7\\td7\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F3B2FE-D89B-4E65-A341-1BF0FAB5AB5C}|TD7\\TD7.csproj|solutionrelative:td7\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5F3B2FE-D89B-4E65-A341-1BF0FAB5AB5C}|TD7\\TD7.csproj|c:\\users\\charl\\source\\repos\\td7\\td7\\personnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5F3B2FE-D89B-4E65-A341-1BF0FAB5AB5C}|TD7\\TD7.csproj|solutionrelative:td7\\personnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\source\\repos\\TD7\\TD7\\Program.cs",
+              "RelativeDocumentMoniker": "TD7\\Program.cs",
+              "ToolTip": "C:\\Users\\charl\\source\\repos\\TD7\\TD7\\Program.cs",
+              "RelativeToolTip": "TD7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:15:14.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Labyrinthe.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\source\\repos\\TD7\\TD7\\Labyrinthe.cs",
+              "RelativeDocumentMoniker": "TD7\\Labyrinthe.cs",
+              "ToolTip": "C:\\Users\\charl\\source\\repos\\TD7\\TD7\\Labyrinthe.cs",
+              "RelativeToolTip": "TD7\\Labyrinthe.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:18:28.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Personnage.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\source\\repos\\TD7\\TD7\\Personnage.cs",
+              "RelativeDocumentMoniker": "TD7\\Personnage.cs",
+              "ToolTip": "C:\\Users\\charl\\source\\repos\\TD7\\TD7\\Personnage.cs",
+              "RelativeToolTip": "TD7\\Personnage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:17:33.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\charl\\source\\repos\\TD7\\TD7\\Position.cs",
+              "RelativeDocumentMoniker": "TD7\\Position.cs",
+              "ToolTip": "C:\\Users\\charl\\source\\repos\\TD7\\TD7\\Position.cs",
+              "RelativeToolTip": "TD7\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T15:16:06.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

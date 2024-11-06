@@ -1,0 +1,14 @@
+C:\Users\charl\source\repos\TD4\TD4\bin\Debug\net8.0\TD4.exe
+C:\Users\charl\source\repos\TD4\TD4\bin\Debug\net8.0\TD4.deps.json
+C:\Users\charl\source\repos\TD4\TD4\bin\Debug\net8.0\TD4.runtimeconfig.json
+C:\Users\charl\source\repos\TD4\TD4\bin\Debug\net8.0\TD4.dll
+C:\Users\charl\source\repos\TD4\TD4\bin\Debug\net8.0\TD4.pdb
+C:\Users\charl\source\repos\TD4\TD4\obj\Debug\net8.0\TD4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\source\repos\TD4\TD4\obj\Debug\net8.0\TD4.AssemblyInfoInputs.cache
+C:\Users\charl\source\repos\TD4\TD4\obj\Debug\net8.0\TD4.AssemblyInfo.cs
+C:\Users\charl\source\repos\TD4\TD4\obj\Debug\net8.0\TD4.csproj.CoreCompileInputs.cache
+C:\Users\charl\source\repos\TD4\TD4\obj\Debug\net8.0\TD4.dll
+C:\Users\charl\source\repos\TD4\TD4\obj\Debug\net8.0\refint\TD4.dll
+C:\Users\charl\source\repos\TD4\TD4\obj\Debug\net8.0\TD4.pdb
+C:\Users\charl\source\repos\TD4\TD4\obj\Debug\net8.0\TD4.genruntimeconfig.cache
+C:\Users\charl\source\repos\TD4\TD4\obj\Debug\net8.0\ref\TD4.dll
